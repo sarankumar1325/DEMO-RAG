@@ -1,5 +1,7 @@
 # 📄 Document RAG Assistant
 
+![Image](https://github.com/user-attachments/assets/e581c8fa-86e1-4880-9d32-9cccbfba3112)
+
 A powerful Document-based Retrieval Augmented Generation (RAG) system built with ChromaDB, Google's Gemini 2.0 Flash, and Streamlit. Upload PDF documents and ask questions based strictly on their content - no hallucinations, only factual answers from your documents.
 
 ## 🚀 Features
